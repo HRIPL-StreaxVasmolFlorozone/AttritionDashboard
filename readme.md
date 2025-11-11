@@ -10,6 +10,14 @@ It provides insights into:
 - Gender and manager-wise attrition breakdown
 - Comparison of employees joining vs. leaving
 
+## Dashboard Preview
+
+Here are some visuals from the Attrition Dashboard:
+
+### Overall Dashboard View
+![Attrition Dashboard Overview](images/1.png)
+![Attrition Dashboard Overview](images/2.png)
+
 ---
 
 ## Data Overview
